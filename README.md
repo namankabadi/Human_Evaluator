@@ -17,7 +17,6 @@ This tool is designed to assist in the evaluation of automatically generated sum
 ## Data Format 📁
 
 The app supports a specific **JSON structure** for easy integration and use. This structure includes fields for the original input text, reference summary, and summaries from various models. By uploading data in the correct format, users can streamline the evaluation process.
-
 **Example JSON Format**:
 
 ```json
@@ -34,6 +33,7 @@ The app supports a specific **JSON structure** for easy integration and use. Thi
         "RefSum": "Reference summary for comparison..."
     }
 }
+```
 
 # How It Works 🛠️
 
@@ -67,3 +67,4 @@ This tool is ideal for researchers, developers, and evaluators working in the fi
 ## **Conclusion 🎯**
 
 The **Human Evaluator** tool offers an efficient and intuitive approach to evaluating automatically generated summaries, specifically focusing on the problem of **relation hallucination** in abstractive summarization. By allowing users to upload structured JSON data, rate model summaries, and visualize the results, this tool provides a powerful mechanism to assess the performance of various summarization models.
+
