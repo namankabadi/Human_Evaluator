@@ -35,7 +35,7 @@ The app supports a specific **JSON structure** for easy integration and use. Thi
     }
 }
 
-**How It Works**🛠️
+--How It Works--🛠️
 
 Input Text: The full text of the article or passage being summarized.
 Reference Summary: The ideal or ground-truth summary provided for comparison.
@@ -61,5 +61,5 @@ Comprehensive visualizations that help in comparing model performance and rating
 Downloadable results for further analysis and reporting.
 This tool is ideal for researchers, developers, and evaluators working in the field of Natural Language Processing (NLP), especially in tasks related to summarization and the detection of relation hallucinations. By providing a clear and structured workflow, it enables better understanding and improvement of summarization models.
 
-## **Conclusion 🎯**
+**Conclusion 🎯**
 The Human Evaluator tool offers an efficient and intuitive approach to evaluating automatically generated summaries, specifically focusing on the problem of relation hallucination in abstractive summarization. By allowing users to upload structured JSON data, rate model summaries, and visualize the results, this tool provides a powerful mechanism to assess the performance of various summarization models.
